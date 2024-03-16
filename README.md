@@ -2,7 +2,7 @@
 
 This is our paper's PyTorch implementation, **Debiased Sequential Recommendation by Separating Long-Term and Short-Term Interests**，built on the RecBole library.
 
-* The model implementation is at `recbole/model/sequential_recommender/lscrec.py`
+* The model implementation is at `recbole/model/sequential_recommender/lsdrec.py`
 
 
 ## Environments
