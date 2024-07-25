@@ -12,8 +12,8 @@ This is our paper's PyTorch implementation, **Debiased Sequential Recommendation
 ## Datasets
 * Reddit: A resource for studying users' interactions about topics on Reddit. 
 * Beauty: Collected from the Amazon Beauty product category, detailing user interactions with these products. 
-*  ports: Gathering user product interaction data from the Amazon Sports product category. 
-*  ML-1M: Containing users' rating behavior for movies.
+* Sports: Gathering user product interaction data from the Amazon Sports product category. 
+* ML-1M: Containing users' rating behavior for movies.
 
 ## Run the codes
 
